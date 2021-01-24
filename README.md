@@ -128,7 +128,7 @@ JavaScript é uma das mais importantes linguagens front-end, e nesse curso você
 ---
 
 
-Desenvolvido por: ```Cristiano Bonifácio ``` 
+Desenvolvido por: [```Cristiano Bonifácio ``` ](https://www.linkedin.com/in/cristianowebdesigner2019/)
 
 Curso ministrado por  **Rafael Galleani**  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
