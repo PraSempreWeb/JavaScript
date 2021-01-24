@@ -87,7 +87,7 @@ JavaScript é uma das mais importantes linguagens front-end, e nesse curso você
 
 
 
-## 2. DESENVOLVA PÁGINA WEB COM JAVASCRIPT
+## 2. DESENVOLVA PÁGINAS WEB COM JAVASCRIPT
 
 
 
