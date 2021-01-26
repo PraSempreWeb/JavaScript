@@ -119,13 +119,10 @@ JavaScript é uma das mais importantes linguagens front-end, e nesse curso você
 
 ---
 
-![js](https://user-images.githubusercontent.com/77255300/105645864-2c2bfa00-5e7b-11eb-99e4-bfa7c6e1d348.png)
+<img src="https://user-images.githubusercontent.com/77255300/105645864-2c2bfa00-5e7b-11eb-99e4-bfa7c6e1d348.png" width=300>
 
 ---
 
-![git](https://user-images.githubusercontent.com/77255300/105645880-48c83200-5e7b-11eb-990b-b95973465708.png)
-
----
 
 
 Desenvolvido por: [```Cristiano Bonifácio ``` ](https://www.linkedin.com/in/cristianowebdesigner2019/)
